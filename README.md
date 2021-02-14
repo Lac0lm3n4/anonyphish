@@ -1,13 +1,18 @@
-# anonyphish es un script simple para ocultar la URL de phishing en una URL de apariencia normal (google.com o facebook.com).
+# 🤖anonyphish es un script simple para ocultar la URL de phishing en una URL de apariencia normal (google.com o facebook.com).🤖
 
 
-# *INSTALACIÓN EN TERMUX O LINUX*
+# ☠️*INSTALACIÓN EN TERMUX O LINUX*
+☠️
 
-Si no tienes python, instalalo con:
+Si no tienes python instalalo con:
 
 pkg install python
 
 pkg install python3
+
+Luego instalamos openssl con:
+
+pkg install openssl
 
 Ahora clonamos con
 
